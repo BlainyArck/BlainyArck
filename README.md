@@ -7,7 +7,7 @@
   
   <!-- Título principal -->
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0EA5FF&center=true&vCenter=true&width=600&lines=Transforme+ideias+em+soluções+digitais;Desenvolvimento+Web+%26+Mobile;Performance+%7C+Design+%7C+Inova%C3%A7%C3%A3o" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0EA5FF&center=true&vCenter=true&width=600&lines=+Transforme+ideias+em+soluções+digitais+;Desenvolvimento+Web+%26+Mobile;Performance+%7C+Design+%7C+Inova%C3%A7%C3%A3o" alt="Typing SVG" />
   </h1>
 
   <!-- Badges de status -->
@@ -89,11 +89,11 @@ Nosso posicionamento é **moderno, tecnológico e de alta performance** — insp
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_Site_Oficial-0EA5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050816)](https://motech.com.br)
-[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=050816)](https://wa.me/5500000000000)
-[![Email](https://img.shields.io/badge/✉️_Email-0EA5FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050816)](mailto:contato@motech.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050816)](https://linkedin.com/company/motech)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=050816)](https://instagram.com/motech)
+[![Website](https://img.shields.io/badge/🌐_Site_Oficial-0EA5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050816)]()
+[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=050816)]()
+[![Email](https://img.shields.io/badge/✉️_Email-0EA5FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050816)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050816)](https://www.linkedin.com/in/alandiogocs/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=050816)](https://www.instagram.com/motech.dev/)
 
 </div>
 
@@ -106,10 +106,6 @@ Nosso posicionamento é **moderno, tecnológico e de alta performance** — insp
   <br>
   
   <sub><strong>MoTech</strong> — Desenvolvimento Web & Mobile</sub>
-  
-  <br>
-  
-  <sub>Feito com 💙 e muito café ☕ pela equipe MoTech</sub>
   
   <br>
   
