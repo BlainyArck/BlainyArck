@@ -7,7 +7,7 @@
   
   <!-- Título principal -->
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0EA5FF&center=true&vCenter=true&width=600&lines=+Transforme+ideias+em+soluções+digitais+;Desenvolvimento+Web+%26+Mobile;Performance+%7C+Design+%7C+Inova%C3%A7%C3%A3o" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0EA5FF&center=true&vCenter=true&width=600&lines=Desenvolvimento+Web+%26+Mobile;Performance+%7C+Design+%7C+Inova%C3%A7%C3%A3o" alt="Typing SVG" />
   </h1>
 
   <!-- Badges de status -->
@@ -39,7 +39,7 @@ Nosso posicionamento é **moderno, tecnológico e de alta performance** — insp
 | 🌐 Web | 📱 Mobile | ⚙️ Sistemas | 🎨 UI/UX |
 |:---:|:---:|:---:|:---:|
 | Sites modernos e rápidos | Apps Android & iOS | ERP, CRM e SaaS | Experiências intuitivas |
-| Landing pages de alta conversão | Flutter & React Native | Plataformas personalizadas | Design premium |
+| Landing pages de alta conversão | React Native | Plataformas personalizadas | Design premium |
 
 </div>
 
