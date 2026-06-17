@@ -7,7 +7,7 @@
   
   <!-- Título principal -->
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0EA5FF&center=true&vCenter=true&width=600&lines=Transformamos+ideias+em+solu%C3%A7%C3%B5es+digitais;Desenvolvimento+Web+%26+Mobile;Performance+%7C+Design+%7C+Inova%C3%A7%C3%A3o" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0EA5FF&center=true&vCenter=true&width=600&lines=Transforme+ideias+em+soluções+digitais;Desenvolvimento+Web+%26+Mobile;Performance+%7C+Design+%7C+Inova%C3%A7%C3%A3o" alt="Typing SVG" />
   </h1>
 
   <!-- Badges de status -->
@@ -82,96 +82,6 @@ Nosso posicionamento é **moderno, tecnológico e de alta performance** — insp
 ![Figma](https://img.shields.io/badge/Figma-0EA5FF?style=for-the-badge&logo=figma&logoColor=white&labelColor=050816)
 
 </div>
-
----
-
-## 🚀 Projetos em Destaque
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🌐 Site Oficial MoTech</h3>
-      <p>Landing page premium com React 19, Vite e Framer Motion. Visual inspirado em Stripe e Vercel.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React_19-0EA5FF?style=flat-square&logo=react&logoColor=white&labelColor=0B1220" />
-        <img src="https://img.shields.io/badge/Vite-6C63FF?style=flat-square&logo=vite&logoColor=white&labelColor=0B1220" />
-        <img src="https://img.shields.io/badge/Framer_Motion-0EA5FF?style=flat-square&logo=framer&logoColor=white&labelColor=0B1220" />
-      </p>
-      <p><a href="#">🔗 Ver projeto</a> · <a href="#">📂 Código</a></p>
-    </td>
-    <td width="50%">
-      <h3>📱 App Mobile Cliente</h3>
-      <p>Aplicativo multiplataforma desenvolvido em Flutter com integração Firebase.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-6C63FF?style=flat-square&logo=flutter&logoColor=white&labelColor=0B1220" />
-        <img src="https://img.shields.io/badge/Firebase-0EA5FF?style=flat-square&logo=firebase&logoColor=white&labelColor=0B1220" />
-      </p>
-      <p><a href="#">🔗 Ver projeto</a> · <a href="#">📂 Código</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>⚙️ Sistema ERP Customizado</h3>
-      <p>Plataforma SaaS com Node.js, PostgreSQL e arquitetura multi-tenant.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-0EA5FF?style=flat-square&logo=node.js&logoColor=white&labelColor=0B1220" />
-        <img src="https://img.shields.io/badge/PostgreSQL-6C63FF?style=flat-square&logo=postgresql&logoColor=white&labelColor=0B1220" />
-      </p>
-      <p><a href="#">🔗 Ver projeto</a> · <a href="#">📂 Código</a></p>
-    </td>
-    <td width="50%">
-      <h3>🎯 Landing Page de Alta Conversão</h3>
-      <p>Página otimizada para conversão com SEO técnico e performance Lighthouse 95+.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-6C63FF?style=flat-square&logo=react&logoColor=white&labelColor=0B1220" />
-        <img src="https://img.shields.io/badge/SEO-0EA5FF?style=flat-square&logo=google&logoColor=white&labelColor=0B1220" />
-      </p>
-      <p><a href="#">🔗 Ver projeto</a> · <a href="#">📂 Código</a></p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=motech&show_icons=true&theme=transparent&title_color=0EA5FF&icon_color=6C63FF&text_color=AAB4C5&bg_color=050816&hide_border=true&border_radius=12" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motech&layout=compact&theme=transparent&title_color=0EA5FF&text_color=AAB4C5&bg_color=050816&hide_border=true&border_radius=12" width="42%" />
-  
-  <br><br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=motech&theme=transparent&background=050816&border=0EA5FF&ring=0EA5FF&fire=6C63FF&currStreakLabel=0EA5FF&sideLabels=6C63FF&dates=AAB4C5&hide_border=true&border_radius=12" width="70%" />
-  
-</div>
-
----
-
-## 🏆 Nossos Diferenciais
-
-<div align="center">
-
-| ⚡ Performance | 🔍 SEO Otimizado | 🔒 Segurança | 📈 Escalabilidade |
-|:---:|:---:|:---:|:---:|
-| Lighthouse 95+ | Ranqueamento Google | Boas práticas | Arquitetura sólida |
-
-| 🎨 Design Premium | 🤝 Suporte Contínuo | 🚀 Deploy Rápido | 💎 Código Limpo |
-|:---:|:---:|:---:|:---:|
-| UI/UX moderno | Acompanhamento dedicado | CI/CD automatizado | Escalável |
-
-</div>
-
----
-
-## 🔄 Processo de Trabalho
-
-```
-┌──────────┐   ┌────────────┐   ┌────────┐   ┌──────────────┐   ┌────────┐   ┌────────┐   ┌─────────┐
-│ Descoberta│──▶│ Planejamento│──▶│ Design │──▶│ Desenvolvimento│──▶│ Testes │──▶│ Deploy │──▶│ Suporte │
-└──────────┘   └────────────┘   └────────┘   └──────────────┘   └────────┘   └────────┘   └─────────┘
-```
 
 ---
 
